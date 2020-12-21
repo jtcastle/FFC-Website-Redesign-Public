@@ -3,7 +3,7 @@ Files for automatically restyling disc webpages
 
 Created a script to scrape the data off of any current fresnoflightcenter.com disc webpage (name, description, flight numbers, inventory images, PayPal buttons, etc.) and reformat it into an updated html file.
 
-How the script works:
+How the update_styling_script works:
 
 1) The most current information for a disc is pulled straight from the live webpage using the python requests library.
 
