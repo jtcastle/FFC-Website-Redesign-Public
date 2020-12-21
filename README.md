@@ -9,7 +9,7 @@ How the script works:
 
 2) Information from within the webpage such as the name, description, flight numbers, inventory images, PayPal buttons, etc. is parsed using BeautifulSoup and saved. 
 
-3) The parsed information from step 2 is then inserted into a local template.html file and reformmatted.
+3) The parsed information from step 2 is then inserted into a local new_style_template.html file and reformmatted.
 
 4) A new file is created and exported with the new html structure and an embedded link to the new discstyles.css style sheet.
 
