@@ -19,4 +19,5 @@ How the script works:
 Before and After Examples can be viewed at the links below.
 
 Before: https://www.fresnoflightcenter.com/boss.html
+
 After : https://www.fresnoflightcenter.com/boss%20copy.html
