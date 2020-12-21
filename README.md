@@ -5,7 +5,7 @@ Created a script to scrape the data off of any current fresnoflightcenter.com di
 
 How the script works:
 
-1) the most current information for a disc is pulled straight from the live webpage using the python requests library.
+1) The most current information for a disc is pulled straight from the live webpage using the python requests library.
 
 2) Information from within the webpage such as the name, description, flight numbers, inventory images, PayPal buttons, etc. is parsed using BeautifulSoup and saved. 
 
