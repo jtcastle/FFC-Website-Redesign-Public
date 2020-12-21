@@ -14,3 +14,9 @@ How the script works:
 4) A new file is created and exported with the new html structure and an embedded link to the new discstyles.css style sheet.
 
 5) This new file is ready to be simply uploaded to the site.
+
+
+Before and After Examples can be viewed at the links below.
+
+Before: https://www.fresnoflightcenter.com/boss.html
+After : https://www.fresnoflightcenter.com/boss%20copy.html
