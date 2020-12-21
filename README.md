@@ -1,7 +1,7 @@
 # FFC-Website-Redesign-Public
 Files for automatically restyling disc webpages
 
-Created a script to scrape the data off of any current fresnoflightcenter.com disc webpage (name, description, flight numbers, inventory images, PayPal buttons, etc.
+Created a script to scrape the data off of any current fresnoflightcenter.com disc webpage (name, description, flight numbers, inventory images, PayPal buttons, etc.) and reformat it into an updated html file.
 
 How the script works:
 
